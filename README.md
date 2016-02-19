@@ -5,10 +5,10 @@ The aim of this book is to get you started with developing applications for Node
 **Translator**: [Masoud Ghorbani](http://twitter.com/manuelkiessling)
 
 ## Read Online & PDF & Source Code
-With below link you can read the book online Also can Download the source code and .pdf version via:
-* http://msud.ir/nbpersian
-* http://msud.ir/nbpersian/pdf
-* http://msud.ir/nbpersian/code
+you can read the book online with **[[Online]](http://msud.ir/nbpersian)**, Also can Download the **[[Source Code]](http://msud.ir/nbpersian/code)** and **[[PDF]](http://msud.ir/nbpersian/pdf)** version.
+
+
+
 
 ## Sharing
 Please help me by spreading the word about this book on Twitter!    
