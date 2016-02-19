@@ -1,4 +1,4 @@
-# The Node Beginner Persian Book
+# :orange_book: The Node Beginner Persian Book
 **A comprehensive Node.js tutorial**    
 The aim of this book is to get you started with developing applications for Node.js, teaching you everything you need to know about “advanced” JavaScript along the way. It goes way beyond your typical “Hello World” tutorial.	
 **Author**: [Manuel Kiessling](https://twitter.com/_imasoud)    
