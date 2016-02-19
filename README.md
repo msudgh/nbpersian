@@ -1,7 +1,5 @@
 # The Node Beginner Persian Book
-#### A comprehensive Node.js tutorial
-
-## About
+**A comprehensive Node.js tutorial**    
 The aim of this book is to get you started with developing applications for Node.js, teaching you everything you need to know about “advanced” JavaScript along the way. It goes way beyond your typical “Hello World” tutorial.	
 
 **Author**: Manuel Kiessling    
@@ -23,7 +21,7 @@ This **translation of book** is licensed under a **Creative Commons 4.0(CC BY-NC
 Remember, The **english** Version is not licensed under above License.
 
 ## Contribute
-First of all, thank you for taking the time to contribute to this project. you can use [issues] page and send [mail] for contribute translated content, suggestions and bugfixes.
+First of all, thank you for taking the time to contribute to this project. you can use [issues] page or send [mail] to contribute translated content, suggestions and bugfixes.
 
 
    [issues]: <https://github.com/imasood/nbpersian/issues>
