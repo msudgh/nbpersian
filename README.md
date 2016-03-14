@@ -19,3 +19,4 @@ First of all, thank you for taking the time to contribute to this project. you c
 ![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png "CC BY-NC-ND 4.0")   
 This **translation of book** is licensed under a **Creative Commons 4.0(CC BY-NC-ND 4.0) International** License and you can publish to **free**.   
 Remember, The **english** Version is not licensed under above License.
+[See the LICENSE file](https://github.com/imasood/nbpersian/blob/master/LICENSE.md).
