@@ -4,7 +4,7 @@ The aim of this book is to get you started with developing applications for Node
 **Author**: [Manuel Kiessling](https://twitter.com/manuelkiessling) / **Translator**: [Masoud Ghorbani](https://twitter.com/_imasoud)
 
 ## Read Online & PDF & Source Code
-You can read the book **[[Online]](http://msud.ir/nbpersian)**  also can download the **[[PDF]](http://msud.ir/nbpersian/pdf)** version and **[[Source Code]](https://github.com/imasood/nbpersian/tree/master/code)**.
+You can read the book **[[Online]](http://msud.ir/nbpersian)**  also can download the **[[PDF]](https://www.dropbox.com/s/qc257jzo6c0dymc/nbpersian.web.pdf?dl=1)** version and **[[Source Code]](https://github.com/imasood/nbpersian/tree/master/code)**.
 
 ## Sharing
 Please help me by spreading the word about this book on Twitter!    
